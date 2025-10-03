@@ -4,11 +4,6 @@
 
 Especializado en construir soluciones robustas y escalables utilizando **Java/Spring Boot** y **PHP/Laravel**, combinando la técnica con la gestión de equipos ágiles.
 
-| **Ubicación** | **Contacto** | **Conexión** |
-| :--- | :--- | :--- |
-| **Colombia** 🇨🇴 | **adrianfabril@gmail.com** | [LinkedIn](https://www.linkedin.com/in/faiber-adrian-abril-alvarado-26b572109/) |
-
----
 
 - 🔭 Actualmente estoy trabajando en **mi proyecto personal de gestión de inventario** utilizando Spring Boot para el *backend* y Angular para el *frontend*.
 - 🎓 Como **Docente**, me enfoco en la mentoría y la enseñanza de buenas prácticas de desarrollo de software.
